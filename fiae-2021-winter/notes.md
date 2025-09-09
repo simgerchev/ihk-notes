@@ -1,4 +1,36 @@
 # Entwicklung und Umsetzung von Algorithmen
+
+## Inhaltsverzeichnis
+
+- [Aktivitätsdiagramm](#aktivitätsdiagramm)
+- [SQL Commands](#sql-commands)
+- [Prozessanalyse](#prozessanalyse)
+- [Pseudocode](#pseudocode)
+- [Relationales Datenmodell](#relationales-datenmodell)
+- [Struktogramm](#struktogramm)
+- [Planen eines Softwareproduktes](#planen-eines-softwareproduktes)
+- [Änderbarkeit](#änderbarkeit)
+- [Barrierefreiheit](#barrierefreiheit)
+- [Black-Box-Test](#black-box-test)
+- [Code Reviews](#code-reviews)
+- [Compiler](#compiler)
+- [Dokumentation](#dokumentation)
+- [Effizienz](#effizienz)
+- [Endpoint-Security](#endpoint-security)
+- [HTTP Statuscodes](#http-statuscodes)
+- [Interpreter](#interpreter)
+- [Klassenbibliothek](#klassenbibliothek)
+- [Softwarequalität](#softwarequalität)
+- [Unit Tests](#unit-tests)
+- [Usability](#usability)
+- [User Experience](#user-experience)
+- [Versionsverwaltung](#versionsverwaltung)
+- [White Box Test](#white-box-test)
+- [Zertifikate](#zertifikate)
+- [ER-Modell](#er-modell)
+- [UML: Use Case Diagramm](#uml-use-case-diagramm)
+- [Verschlüsselung](#verschlüsselung)
+- [UML Klassendiagramm](#uml-klassendiagramm)
 ## Aktivitätsdiagramm
 
 <img src="aktivitätsdiagramm.png">
